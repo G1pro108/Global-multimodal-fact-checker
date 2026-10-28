@@ -1,0 +1,19 @@
+# Python packages for the Multimodal Fake News Detector
+# Install with:  pip install -r requirements.txt
+streamlit
+scikit-learn
+joblib
+pandas
+transformers
+torch
+torchaudio
+pillow
+pytesseract
+opencv-python-headless
+fast-c2pa-python
+duckduckgo_search
+openai
+deep-translator
+jabberjay
+librosa
+soundfile
